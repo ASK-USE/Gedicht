@@ -9,5 +9,6 @@ Gelb
 Magenta
 
 Schwarz
+Grau 
 
 Sind alles tolle Farben.
