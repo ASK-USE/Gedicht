@@ -2,10 +2,11 @@ Farbpalette
 
 Rot
 Grün
+Hellgrün
+Dunkelgrün
 Blau
 Gelb
 Magenta
-Cyan
 Schwarz
 
 Sind alles tolle Farben.
