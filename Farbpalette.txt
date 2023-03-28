@@ -6,5 +6,6 @@ Blau
 Gelb
 Magenta
 Cyan
+Schwarz
 
 Sind alles tolle Farben.
